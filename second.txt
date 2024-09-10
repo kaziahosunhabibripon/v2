@@ -1,0 +1,9 @@
+In the problem two here i need first find the employee Name based on the 
+employeeID query in the employee table then search the bonus table 
+update the bonus using update query based on the search
+then join the table and show the data right forma of data.
+Basically i need where clause to find employee name based on employee id foreign key
+
+select * employee where employeeID and join bonus 
+update bonus and 
+show employee table with bonus
